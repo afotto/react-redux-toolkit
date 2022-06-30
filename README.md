@@ -7,3 +7,5 @@ En este caso se implementa el Slice, y luego Thunk, primero con fetch y luego co
 
 # TODO
 Aquí de implemnta RDK Query que está buenísmo para generar user's hook's que consultan a la API
+
+Ver: src/TodoApp.jsx y src/store/apis/todoApi.js
