@@ -1,4 +1,4 @@
-"# react-redux-toolkit" 
+# react-redux-toolkit" 
 
 Ej. de implementación del patron Redux con REACT. Utilizando https://redux-toolkit.js.org/
 
