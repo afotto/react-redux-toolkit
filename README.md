@@ -2,6 +2,8 @@
 
 Ej. de implementación del patron Redux con REACT. Utilizando https://redux-toolkit.js.org/
 
+Interesantes es el RDK Query: https://redux-toolkit.js.org/rtk-query/overview 
+
 # Pokemon
 En este caso se implementa el Slice, y luego Thunk, primero con fetch y luego con Axios para consultar a la API
 
