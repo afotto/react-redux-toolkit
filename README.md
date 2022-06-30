@@ -1,6 +1,6 @@
 "# react-redux-toolkit" 
 
-Ej. de implmentación del patron Redux con REACT. Utilizando https://redux-toolkit.js.org/
+Ej. de implementación del patron Redux con REACT. Utilizando https://redux-toolkit.js.org/
 
 # Pokemon
 En este caso se implementa el Slice, y luego Thunk, primero con fetch y luego con Axios para consultar a la API
